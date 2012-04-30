@@ -1,13 +1,12 @@
-CHANGES
-COPYRIGHT
+Build.PL
+Changes
 lib/Image/Density/TIFF.pm
-LICENSE
 Makefile.PL
 MANIFEST
-README
+META.yml # Will be created by "make dist"
+README.md
 t/diffuse.tif
 t/examples.t
 t/multi.tif
 t/noisy.tif
 t/original.tif
-META.yml                                 Module meta-data (added by MakeMaker)
